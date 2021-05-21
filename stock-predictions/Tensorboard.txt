@@ -1,0 +1,1 @@
+tensorboard --logdir=C:\Users\Flo\Desktop\Prediction-Projekt\logs
